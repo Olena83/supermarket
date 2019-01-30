@@ -1,0 +1,5 @@
+package supermarket;
+
+public enum Stage {
+    WELCOME, SALE, FOOD, BEVERAGE, ELECTRICS, OTHER_PRODUCT,OTHER_PRODUCT1,OTHER_PRODUCT2
+}
